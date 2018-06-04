@@ -1,0 +1,6 @@
+framework module Pods_GoogleMLWithCocoaPods {
+  umbrella header "Pods-GoogleMLWithCocoaPods-umbrella.h"
+
+  export *
+  module * { export * }
+}

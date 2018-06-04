@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoogleMLWithCocoaPods/ViewController.swift"
+            timestampString = "549658721.207459"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleMLWithCocoaPods.ViewController.ResultLbl.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "GoogleMLWithCocoaPods"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harendrasharma/Desktop/GoogleMLWithCocoaPods/GoogleMLWithCocoaPods/ViewController.swift"
+                  timestampString = "549656487.75827"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "79">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleMLWithCocoaPods.ViewController.ResultLbl.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UILabel&gt;"
+                  moduleName = "GoogleMLWithCocoaPods"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harendrasharma/Desktop/GoogleMLWithCocoaPods/GoogleMLWithCocoaPods/ViewController.swift"
+                  timestampString = "549656487.762992"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "90">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleMLWithCocoaPods.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; GoogleMLWithCocoaPods.ViewController"
+                  moduleName = "GoogleMLWithCocoaPods"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harendrasharma/Desktop/GoogleMLWithCocoaPods/GoogleMLWithCocoaPods/ViewController.swift"
+                  timestampString = "549656487.765497"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "251">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoogleMLWithCocoaPods.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;GoogleMLWithCocoaPods.ViewController&gt;"
+                  moduleName = "GoogleMLWithCocoaPods"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/harendrasharma/Desktop/GoogleMLWithCocoaPods/GoogleMLWithCocoaPods/ViewController.swift"
+                  timestampString = "549656487.7691391"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "185">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
