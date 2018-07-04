@@ -12,6 +12,9 @@ pod 'Firebase/MLVision'
 
 pod 'Firebase/MLVisionLabelModel'
 
+pod 'Firebase/Auth'
+
+
 
 
 end

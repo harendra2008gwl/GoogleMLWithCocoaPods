@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "BF7C265B10FBBBE4DB37D1040A06FF39"
+               BlueprintIdentifier = "C963A4A3AF7449A2E696EE6484A24BF6"
                BuildableName = "Pods_GoogleMLWithCocoaPods.framework"
                BlueprintName = "Pods-GoogleMLWithCocoaPods"
                ReferencedContainer = "container:Pods.xcodeproj">
@@ -45,7 +45,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "BF7C265B10FBBBE4DB37D1040A06FF39"
+            BlueprintIdentifier = "C963A4A3AF7449A2E696EE6484A24BF6"
             BuildableName = "Pods_GoogleMLWithCocoaPods.framework"
             BlueprintName = "Pods-GoogleMLWithCocoaPods"
             ReferencedContainer = "container:Pods.xcodeproj">
